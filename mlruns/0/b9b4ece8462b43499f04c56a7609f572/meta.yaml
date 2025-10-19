@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops_Compl/mlruns/0/b9b4ece8462b43499f04c56a7609f572/artifacts
+end_time: 1760856178778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9b4ece8462b43499f04c56a7609f572
+run_name: stately-goat-950
+run_uuid: b9b4ece8462b43499f04c56a7609f572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760856167621
+status: 4
+tags: []
+user_id: Admin

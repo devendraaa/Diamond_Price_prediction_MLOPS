@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops_Compl/mlruns/0/9ced752d2c20446288dcef56c05d6a9c/artifacts
+end_time: 1760858308479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ced752d2c20446288dcef56c05d6a9c
+run_name: sedate-pug-164
+run_uuid: 9ced752d2c20446288dcef56c05d6a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760858302744
+status: 4
+tags: []
+user_id: Admin
